@@ -1,0 +1,21 @@
+{
+  "name": "cypress-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open",
+    "test:firefox": "cypress run --browser firefox",
+    "test:edge": "cypress run --browser edge",
+    "test:chrome": "cypress run --browser chrome",
+    "test-ci": "node_modules/.bin/cypress run",
+    "test-ci:full": "npm run test:chrome && npm run test:edge"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "8.7.0"
+  }
+}
