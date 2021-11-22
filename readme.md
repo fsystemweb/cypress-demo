@@ -6,11 +6,11 @@ This project going to be an example to implement cypress as an e2e testing tool.
 
 - Install node.js
 - Initialize project
-  ´´´ npm init -y ´´´
+  `npm init -y`
 - Install cypress
-  ´´´ npm i cypress ´´´
+  `npm i cypress`
 - Open cypress
-  ´´´ npx cypress ´´´
+  `npx cypress`
 
 ## Fix Windows error
 

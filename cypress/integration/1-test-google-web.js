@@ -26,7 +26,7 @@ it("Search hello world", () => {
   cy.get(":nth-child(11) > .fl").should("have.text", "10"); // test page max size in first page
 });
 
-it("Search hello world - Using I have lucky", () => {
+it("Search hello world - Using I'm feeling lucky", () => {
   cy.visit("https://google.com");
   cy.get("#L2AGLb").click(); // accept google terms
   cy.get(".gLFyf").type("hello world");
