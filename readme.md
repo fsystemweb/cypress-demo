@@ -12,6 +12,17 @@ This project going to be an example to implement cypress as an e2e testing tool.
 - Open cypress
   `npx cypress`
 
+## Run
+
+- Open Cypress GUI:
+  `npm run test`
+
+- Run Cypress ci with chrome:
+  `npm run test-ci`
+
+- Run Cypress ci with edge and chrome:
+  ` npm run test-ci:full`
+
 ## Fix Windows error
 
 Follow this instructions:
