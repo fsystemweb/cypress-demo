@@ -1,0 +1,13 @@
+{
+  "googleUrl": "https://google.com",
+  "searchValue": "hello world",
+  "suggestions": [
+    "hello world java",
+    "hello world .net",
+    "hello world python",
+    "hello world c++"
+  ],
+  "firstResultWebsite": "https://www.filmaffinity.com/es/film516816.html",
+  "firstResultTitle": "Hello World (2019) - Filmaffinity",
+  "firstResultDomain": "filmaffinity"
+}
